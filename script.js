@@ -26,14 +26,14 @@ $(document).ready(function(){
 
     //Typing animation script
     var typed = new Typed(".typing", {
-        strings: ["Software Engineer", "Web Developer", "Apps Developer", "Blogger", "UI/UX Designer"],
+        strings: ["Software Engineer", "Web Developer", "Apps Developer", "Flutter Developer", "UI/UX Designer"],
         typeSpeed: 100,
         backspeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Software Engineer", "Web Developer", "Apps Developer", "Blogger", "UI/UX Designer"],
+        strings: ["Software Engineer", "Web Developer", "Apps Developer", "Flutter Developer", "UI/UX Designer"],
         typeSpeed: 100,
         backspeed: 60,
         loop: true
